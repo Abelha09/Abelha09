@@ -45,4 +45,10 @@ Sou uma educadora curiosa que decidiu mergulhar no universo da programação. Ac
 
 ---
 
+## 🌐 Portfólio
+
+Confira alguns dos meus projetos:  
+👉 [abelha09.github.io/portfolio](https://abelha09.github.io/portfolio/)
+
+
 <p align="center">🌻</p>
